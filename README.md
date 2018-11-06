@@ -1,3 +1,2 @@
 # hello-world
-test
-gjhjg
+welcome to git
